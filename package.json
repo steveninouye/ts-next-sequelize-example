@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "db:migrate": "sequelize db:migrate",
-    "db:seed": "sequelize db:seed",
+    "db:seed": "sequelize db:seed:all",
     "db:create": "sequelize db:create",
     "migration:generate": "sequelize migration:generate",
     "seed:generate": "sequelize seed:generate"
