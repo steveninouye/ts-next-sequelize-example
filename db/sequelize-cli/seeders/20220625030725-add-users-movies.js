@@ -18,7 +18,7 @@ module.exports = {
           last_name: 'White',
         },
         {
-          first_name: 4,
+          first_name: 'Kim',
           last_name: 'Smith',
         },
       ],

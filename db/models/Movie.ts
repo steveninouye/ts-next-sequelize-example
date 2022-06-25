@@ -19,5 +19,5 @@ export default class Movie extends Model {
   name?: string;
 
   @BelongsToMany(() => User, () => ActorsMovie)
-  actors?: User[];
+  actors!: User[];
 }

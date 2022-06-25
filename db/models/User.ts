@@ -21,5 +21,5 @@ export default class User extends Model {
   lastName?: string;
 
   @BelongsToMany(() => Movie, () => ActorsMovie)
-  movies?: Movie[];
+  movies!: Movie[];
 }
