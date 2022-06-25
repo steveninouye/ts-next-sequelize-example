@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "db:migrate": "sequelize db:migrate",
+    "db:seed": "sequelize db:seed",
+    "db:create": "sequelize db:create",
+    "migration:generate": "sequelize migration:generate",
+    "seed:generate": "sequelize seed:generate"
   },
   "dependencies": {
     "next": "12.1.6",
