@@ -1,4 +1,4 @@
-# Typescript Next JS App using Sequelize Example
+# Next JS App using Typescript, Sequelize, Sequelize CLI, and PostgreSQL Example
 
 It took me a week to figure out how to add Sequelize to my Next JS app so I wanted to share my approach so others can steal the pattern as well as welcome feedback.
 
