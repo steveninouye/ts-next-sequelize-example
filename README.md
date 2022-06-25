@@ -2,6 +2,8 @@
 
 It took me a week to figure out how to add Sequelize to my Next JS app so I wanted to share my approach so others can steal the pattern as well as welcome feedback.
 
+The commit history is well documented in sections of the project
+
 ## Installation
 
 1. Create a `.env` file with the following values
